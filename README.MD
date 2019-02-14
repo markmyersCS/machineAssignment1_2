@@ -39,4 +39,4 @@ epsDouble: 2.22045e-16
 ```
 
 Where `epsFloat` is the value computed with the variables as a float.
-Where `epsDouble` is the value computed with the variables as a double.# machineAssignment1_2
+Where `epsDouble` is the value computed with the variables as a double.
